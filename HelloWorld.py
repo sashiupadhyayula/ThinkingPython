@@ -10,4 +10,3 @@ print('The length of the name is : ' + str(len(inputName)))
 print('Wha\'s your age?')
 inputAge = input()
 print('Age is ' + inputAge)
-            
